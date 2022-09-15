@@ -1,3 +1,5 @@
-**/.DS_Store
-*.csv
+.DS_Store
+customer_churn_telecom/*.csv
+customer_churn_telecom/catboost_info/*
+customer_churn_telecom/.ipynb_checkpoints/*
 
