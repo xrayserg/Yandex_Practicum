@@ -2,4 +2,5 @@
 customer_churn_telecom/*.csv
 customer_churn_telecom/catboost_info/*
 customer_churn_telecom/.ipynb_checkpoints/*
+value_of_the_car/*.csv
 
